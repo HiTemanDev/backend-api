@@ -3,6 +3,7 @@ Created by :
 1. Azam Azri Ahmad - Universitas Ahmad Dahlan
 
 # 🌐 HiTeman Backend API
+Notebook : https://colab.research.google.com/drive/1Z3g2kjJFPTvvIWH79_dcBoBrqi3DZhpT?usp=sharing
 
 **HiTeman API** adalah backend RESTful API berbasis **FastAPI** yang melayani permintaan pengguna untuk menghasilkan narasi dan audio (Text-to-Speech) secara otomatis.
 
