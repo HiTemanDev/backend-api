@@ -12,7 +12,7 @@ API ini mengintegrasikan modul `HiTeman TTS` untuk menghasilkan narasi menggunak
 
 ## 🧰 Teknologi yang Digunakan
 
-- **FastAPI** — framework web modern dan cepat.
+- **FastAPI** — Framework web berbasis Python.
 - **Gemini 1.5 Flash** — untuk generate teks/narasi otomatis.
 - **TTS Native Gemini (gemini-2.5-flash-preview-tts)** — untuk mengonversi teks ke audio.
 - **Uvicorn** — server asynchronous untuk menjalankan FastAPI.
